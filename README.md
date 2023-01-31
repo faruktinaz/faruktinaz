@@ -1,6 +1,8 @@
 
 # Hi, I'm Ömer Faruk Genç. 
 
+https://badge42.vercel.app/api/v2/clchxzd1z00060gjml7jlltr0/stats?cursusId=21&coalitionId=227
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faruktinazz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omer-faruk-genc) 
