@@ -1,7 +1,7 @@
 
 # Hi, I'm Ömer Faruk Genç. 
 
-[(https://badge42.vercel.app/api/v2/clchxzd1z00060gjml7jlltr0/stats?cursusId=21&coalitionId=227)]
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clchxzd1z00060gjml7jlltr0/stats?cursusId=21&coalitionId=227" alt="ogenc's 42 stats" /></a>
 
 
 ## 🌐 Socials:
