@@ -1,3 +1,3 @@
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/3ohjV0PbaTBNw42YO4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/benglabs-computer-pc-3ohjV0PbaTBNw42YO4">via GIPHY</a></p>
+![Alt Text](https://media.giphy.com/media/h2IKxVBZmQTqUIsSKs/giphy.gif)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faruktinazz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omer-faruk-genc) 
